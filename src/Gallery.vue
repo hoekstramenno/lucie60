@@ -8,6 +8,11 @@
       </div>
       <div class="item">
         <div class="item__content item__content--large">
+          <img src="./assets/kleinkinderen.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
           <img src="./assets/11.png" alt=""/>
         </div>
       </div>
@@ -48,7 +53,17 @@
       </div>
       <div class="item">
         <div class="item__content item__content--large">
-          <img src="./assets/opa2.png" alt=""/>
+          <img src="./assets/koken.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/cooper.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/seppe3.png" alt=""/>
         </div>
       </div>
       <div class="item">
