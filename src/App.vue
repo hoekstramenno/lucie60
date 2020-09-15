@@ -9,7 +9,7 @@
     </div>
     <div class="container">
       Gefeliciteerd met je 60 en bijna 61ste verjaardag. Time flies! <br/><br/>
-      2020 is niet het jaar waar wij later leuk op terugkijken. Overlijden van oma, Iris en Joey met daarboven een Corona epidemie. We gaan ook met volle overtuiging 2020 afsluiten op 3 oktober en 2021 met 3 maanden verlengen. <br/><br/>
+      2020 is niet het jaar waar wij later leuk op terugkijken. Overlijden van oma, Iris en Joey met daarboven een Corona pandemie. We gaan ook met volle overtuiging 2020 afsluiten op 3 oktober en 2021 met 3 maanden verlengen. <br/><br/>
       Na dit hele nare en gekke jaar hebben wij iets bedacht voor jou en pappa. We willen jullie trakteren op een etentje met z'n allen in een leuk restaurant. Altin en Irene zijn er natuurlijk ook bij.   <br/><br/>
       Dit willen wij gaan doen in november 2020. (Duimen dat Corona ons niet tegenhoudt). Pak meteen de agenda en dan gaan we het prikken. <br/>
       <br/>
