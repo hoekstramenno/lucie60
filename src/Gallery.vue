@@ -2,33 +2,23 @@
   <div class="container-masonry">
     <div class="masonry">
       <div class="item">
-        <div class="item__content">
+        <div class="item__content item__content--large">
           <img src="./assets/jiska.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/11.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--medium">
-          <img src="./assets/tesse-menno.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/1.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--medium">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/kerst.png" alt=""/>
         </div>
       </div>
       <div class="item">
@@ -37,108 +27,179 @@
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--medium">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/2.png" alt=""/>
         </div>
       </div>
       <div class="item">
         <div class="item__content item__content--large">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+          <img src="./assets/12.png" alt=""/>
         </div>
       </div>
       <div class="item">
         <div class="item__content item__content--large">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--medium">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--medium">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+          <img src="./assets/sepp2.png" alt=""/>
         </div>
       </div>
       <div class="item">
         <div class="item__content item__content--large">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
-        </div>
-      </div>
-      <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+          <img src="./assets/3.png" alt=""/>
         </div>
       </div>
       <div class="item">
         <div class="item__content item__content--large">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+          <img src="./assets/opa2.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--medium">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/seppe.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/jiska2.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--medium">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/4.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/5.png" alt=""/>
         </div>
       </div>
       <div class="item">
-        <div class="item__content item__content--small">
-          <img src="./assets/gerrie-langhaar.png" alt=""/>
+        <div class="item__content item__content--large">
+          <img src="./assets/gezin.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/altin.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/opa.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/14.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/gezin2.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/6.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/tom.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/aww2.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/15.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/7.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/altinjiska.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/omavannassauw.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/16.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/8.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/9.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/baard.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/opnek.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/tesse.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/iris.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/junior3.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/10.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/familie.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/junior2.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/aaaw.png" alt=""/>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/oma.png" alt=""/>
+        </div>
+      </div>
+      <div class="item">
+        <div class="item__content item__content--large">
+          <img src="./assets/trouwfoto.png" alt=""/>
         </div>
       </div>
     </div>
@@ -207,6 +268,8 @@
 
     img {
       width: 100%;
+      object-fit: cover;
+      height: 100%;
     }
 
     &__content {
